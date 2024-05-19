@@ -18,7 +18,7 @@ public class main {
 
     static int shakeHand(int numberOfPeople) {
         int result = 0;
-        for (int i = 0; i < numberOfPeople; i++) {
+        for (int i = numberOfPeople-1; i >= 1; i--) {
             result += i;
         }
         return result;

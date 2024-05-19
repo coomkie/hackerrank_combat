@@ -6,7 +6,7 @@ public class main {
         int row = 0;
         do{
         row = scanner.nextInt();
-        }while(2<=row && row <=10);
+        }while(row<2 || row > 10);
 
         for (int i = 0; i < row; i++) {
             for (int j = 0; j <= i; j++) {

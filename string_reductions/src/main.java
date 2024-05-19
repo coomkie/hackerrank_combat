@@ -1,29 +1,22 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
-import java.util.Scanner;
+import java.util.*;
 
 public class main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine().toLowerCase();
-        char[] split = input.toCharArray();
-        String result = "";
-        for (int i = 0; i < split.length; i++) {
-            int count = 0;
-            for (int j = i + 1; j < split.length; j++) {
-                if (split[i] == split[j]) {
-                    count++;
-                }
-            }
-            if (count > 0 && !result.contains((split[i])+"")) {
-                result += split[i];
+        Scanner scanner = new Scanner(System.in);
+        String str = scanner.nextLine();
+        StringBuilder result = new StringBuilder();
+        Stack<Character> stack = new Stack<>();
+
+        for (int i = 0; i < str.length(); i++) {
+            if (!stack.contains(str.charAt(i))) {
+                stack.push(str.charAt(i));
             }
         }
-    if(result == ""){
-        result = input;
+        while (!stack.isEmpty()) {
+            result.append(stack.pop());
+        }
+        System.out.println(result.reverse().toString());
     }
-        System.out.println(result);
-    }
-    }
+}
+
 

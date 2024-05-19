@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5b4ec90-5fc7-4875-b7c6-f69b212a8d40" name="Default Changelist" comment="" />
+    <list default="true" id="a5b4ec90-5fc7-4875-b7c6-f69b212a8d40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../handshake/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pascal_triangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strange_grid/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../handshake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../handshake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../handshake/out/production/handshake/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../handshake/out/production/handshake/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../handshake/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../handshake/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pascal_triangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pascal_triangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pascal_triangle/out/production/pascal_triangle/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pascal_triangle/out/production/pascal_triangle/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pascal_triangle/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pascal_triangle/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strange_grid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../strange_grid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strange_grid/out/production/strange_grid/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../strange_grid/out/production/strange_grid/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strange_grid/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../strange_grid/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../hackerrank_combat" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2gVX6zY3IBwbMmA4cW8SND1omu3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,13 +44,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrank_combat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../string_reductions" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="sequence_of_full_color" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,6 +83,8 @@
       <workItem from="1715783554942" duration="5898000" />
       <workItem from="1715846416017" duration="577000" />
       <workItem from="1715847173318" duration="645000" />
+      <workItem from="1715932983233" duration="24000" />
+      <workItem from="1715934844830" duration="3690000" />
     </task>
     <servers />
   </component>
