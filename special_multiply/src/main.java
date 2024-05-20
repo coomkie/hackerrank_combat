@@ -18,12 +18,17 @@ public class main {
 
     static int specialMultiply(int number) {
         int result = 0;
-        for (int i = 0; i < 100000; i++) {
-            if (checkCondition(i) && i % number == 0) {
-                result = i;
+        int multiplier = 1;
+
+        while (true) {
+            int product = number * multiplier;
+            if (checkCondition(product)) {
+                result = product;
                 break;
             }
+            multiplier++;
         }
+
         return result;
     }
 

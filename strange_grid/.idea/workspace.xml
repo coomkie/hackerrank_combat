@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5d9955-8626-4ca3-9442-40cd45340f17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../handshake/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pascal_triangle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../handshake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../handshake/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../handshake/out/production/handshake/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../handshake/out/production/handshake/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../handshake/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../handshake/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pascal_triangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pascal_triangle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pascal_triangle/out/production/pascal_triangle/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pascal_triangle/out/production/pascal_triangle/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pascal_triangle/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pascal_triangle/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence_of_full_color/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sequence_of_full_color/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence_of_full_color/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sequence_of_full_color/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence_of_full_color/out/production/sequence_of_full_color/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sequence_of_full_color/out/production/sequence_of_full_color/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sequence_of_full_color/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sequence_of_full_color/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../string_reductions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../string_reductions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../string_reductions/out/production/string_reductions/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../string_reductions/out/production/string_reductions/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../string_reductions/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../string_reductions/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +31,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../special_multiply" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="strange_grid" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,7 +58,8 @@
       <updated>1715864837468</updated>
       <workItem from="1715864838740" duration="3893000" />
       <workItem from="1715928520196" duration="1854000" />
-      <workItem from="1716094813763" duration="646000" />
+      <workItem from="1716094813763" duration="647000" />
+      <workItem from="1716122380711" duration="600000" />
     </task>
     <servers />
   </component>
