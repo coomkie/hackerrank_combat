@@ -12,17 +12,13 @@ public class main {
             int c;
             for(int i=0; i < n; i++){
                 String str = in.next();
-
                 if(strings.get(str) == null){
                     c = 0;
                 }else{
                     c = strings.get(str);
                 }
-
                 strings.put(str, c + 1);
             }
-
-
             int q = in.nextInt();
             for(int i=0; i < q; i++){
                 String query = in.next();

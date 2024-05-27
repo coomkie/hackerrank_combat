@@ -58,7 +58,6 @@ class Result {
             current = current.next;
         }
         return llist;
-
     }
 
 }

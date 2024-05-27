@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b33e5e8-b2ca-4bb9-90f9-27a04b067b51" name="Default Changelist" comment="" />
+    <list default="true" id="2b33e5e8-b2ca-4bb9-90f9-27a04b067b51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../remove_duplicate_node_in_linkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rotate_array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remove_duplicate_node_in_linkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../remove_duplicate_node_in_linkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remove_duplicate_node_in_linkedList/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../remove_duplicate_node_in_linkedList/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotate_array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rotate_array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rotate_array/out/production/rotate_array/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rotate_array/out/production/rotate_array/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2gsALQAXO4x0368hDhWX3D78ozx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,6 +48,11 @@
       <option name="presentableId" value="Default" />
       <updated>1716475859766</updated>
       <workItem from="1716475860864" duration="397000" />
+      <workItem from="1716544017280" duration="209000" />
+      <workItem from="1716630476636" duration="595000" />
+      <workItem from="1716636603542" duration="644000" />
+      <workItem from="1716646487199" duration="74000" />
+      <workItem from="1716781517000" duration="18000" />
     </task>
     <servers />
   </component>
